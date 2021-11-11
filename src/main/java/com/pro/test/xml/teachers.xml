@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<teachers> 
+  <teacher id="1"> 
+    <tname>唐僧</tname>  
+    <tage>3030</tage> 
+  </teacher>  
+  <teacher id="2"> 
+    <tname>白石茉莉奈</tname>  
+    <tage>32</tage> 
+  </teacher>  
+  <teacher/>
+</teachers>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<message>
+    <head>
+        <Version>1</Version>
+        <SerialNo>201504171201150001</SerialNo>
+        <ChannelCode>channelCode</ChannelCode>
+        <ServiceName>sendSms2</ServiceName>
+        <TranDate>20150417</TranDate>
+        <TranTime>120115</TranTime>
+        <RtnCode>0000</RtnCode>
+        <RtnMsg>成功</RtnMsg>
+    </head>
+</message>

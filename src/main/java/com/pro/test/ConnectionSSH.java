@@ -14,7 +14,6 @@ public class ConnectionSSH {
 
     public static void main(String[] args) throws JSchException, IOException {
         JSch jsch = new JSch();
-
         String username = "root";
         String host = "192.168.200.128";
         Session session=jsch.getSession(username, host, 22);//为了连接做准备
